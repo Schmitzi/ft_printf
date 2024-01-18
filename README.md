@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/100%2F100-green" />
 </p>
 
-# ft_printf
 ## Description
 
 ft_printf is a custom implementation of the printf function in the C programming language. It provides a flexible and extensible way to format and print output to the standard output (stdout) or a specified file descriptor.
