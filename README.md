@@ -1,10 +1,15 @@
 <p align="center">
-    <img src="img/ft_printfem.png"/>
+    <img src="img/ft_printfe.png"/>
 </p>
 
 <h1 align="center">
    ft_printf
 </h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/100%2F100-green" />
+</p>
 
 # ft_printf
 ## Description
